@@ -1,0 +1,6 @@
+node_modules/
+coverage/
+CHANGELOG.md
+dist/
+npm-debug.log
+.env
